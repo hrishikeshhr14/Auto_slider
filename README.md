@@ -1,3 +1,10 @@
+#Result of the above code will be 
+
+
+<img width="1440" alt="Auto_slider o:p" src="https://github.com/hrishikeshhr14/Auto_slider/assets/111124015/6f02cf61-3322-4e2d-8bac-8f21dd7d417d">
+
+
+<------------------------------------------------------------------------------------------------------------------->
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
